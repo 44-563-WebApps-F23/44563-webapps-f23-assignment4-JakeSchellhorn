@@ -7,3 +7,6 @@
 .Mrselvsted{font-family: 'Comic Sans MS', Comic Sans, cursive; font-size:30 ; color:orange}
 .berta{font-family: 'Comic Sans MS', Comic Sans, cursive; font-size:30 ; color:red}
 
+table{border: solid 6px black; background-color: gray; text-align: center;}
+td, th{border: solid 6px black; padding: 10px;}
+tr:nth-child(even){background-color: cyan;}
