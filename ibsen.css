@@ -6,6 +6,10 @@
 .hedda{font-family: 'Comic Sans MS', Comic Sans, cursive; font-size:30 ; color:green}
 .Mrselvsted{font-family: 'Comic Sans MS', Comic Sans, cursive; font-size:30 ; color:orange}
 .berta{font-family: 'Comic Sans MS', Comic Sans, cursive; font-size:30 ; color:red}
+.hedda:hover{color:black; text-shadow: 0px 0px 5px green; border: dashed 3px green;}
+.Mrselvsted:hover{color: black; text-shadow: 0px 0px 5px orange; border: dashed 3px orange;}
+.berta:hover{color: black; text-shadow: 0px 0px 5px red; border: dashed 3px red;}
+
 
 table{border: solid 6px black; background-color: gray; text-align: center;}
 td, th{border: solid 6px black; padding: 10px;}
